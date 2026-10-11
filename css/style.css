@@ -49,3 +49,13 @@ body {
     margin-bottom: 20px;
     padding: 30px;
 }
+body {
+    font-family: 'Prompt', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
